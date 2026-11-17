@@ -345,6 +345,167 @@
             "footer_privacy": "Privacy Policy",
             "footer_cookies": "Cookie Settings",
             "footer_terms": "Legal Notice"
+        },
+        nl: {
+            "meta_title": "Tandartspraktijk Dr. Shandy Hirsch | Tandarts Luxembourg-Bonnevoie",
+            "nav_home": "Startpagina",
+            "nav_about": "De Praktijk",
+            "nav_services": "Behandelingen",
+            "nav_questionnaires": "Vragenlijsten",
+            "nav_hours": "Openingstijden",
+            "nav_contact": "Route & Contact",
+            "nav_btn_book": "Afspraak Maken",
+
+            "hero_badge": "⭐ Google-beoordeling 5.0 / 5.0 • Luxembourg-Bonnevoie",
+            "hero_title": "Hoogwaardige & Zorgzame Tandheelkunde in Luxemburg",
+            "hero_desc": "Tandartspraktijk van Dr. Shandy Hirsch in Bonnevoie. Gespecialiseerde en persoonlijke zorg in Implantologie, Parodontologie en Esthetische Tandheelkunde in een rustige, stressvrije sfeer.",
+            "hero_cta_book": "Afspraak Maken via Doctena",
+            "hero_cta_call": "📞 +352 20 28 75 54",
+            
+            "lead_head": "Snel Terugbelverzoek",
+            "lead_sub": "Laat uw gegevens achter of plan direct uw afspraak via Doctena.",
+            "lead_ph_name": "Uw Voor- en Achternaam",
+            "lead_ph_phone": "Telefoonnummer (+352...)",
+            "lead_btn": "Afspraak Plannen (Doctena)",
+            "lead_note": "📞 Direct contact: <a href=\"tel:+35220287554\" style=\"color:#be185d; font-weight:700; text-decoration:underline;\">+352 20 28 75 54</a>",
+            "lead_success_title": "Hartelijk dank!",
+            "lead_success_sub": "U wordt doorverwezen naar de online Doctena-agenda van Dr. Hirsch...",
+
+            "info_1_title": "Online Afspraak",
+            "info_1_desc": "24/7 direct boeken via Doctena →",
+            "info_2_title": "Contact & Spoed",
+            "info_2_map_btn": "Route via Google Maps",
+            "info_3_title": "Openingstijden",
+            "info_3_day1": "Maandag – Donderdag",
+            "info_3_day2": "Vrijdag",
+            "info_3_day3": "Zaterdag (1x/maand)",
+            "info_3_day4": "Zondag & Feestdagen",
+            "info_3_hours1": "8:30 – 17:30",
+            "info_3_hours2": "8:30 – 12:30",
+            "info_3_hours3": "9:30 – 14:00",
+            "info_3_hours4": "Wachtdienst CHL (112)",
+
+            "story_tag": "Welkom in de Praktijk",
+            "story_title": "Warme, Aandachtige en <span class=\"text-highlighted\">Stressvrije Zorg</span>",
+            "story_intro": "Welkom bij tandartspraktijk Dr. Shandy Hirsch in Luxemburg – Bonnevoie. Onze praktijk streeft naar persoonlijke en hoogwaardige tandheelkundige zorg. Onze prioriteit is u te begeleiden naar een optimale mondgezondheid in een kalme en comfortabele omgeving.",
+            "story_slide1_title": "Zachte & Angstvrije Benadering",
+            "story_slide1_desc": "Voor angstige patiënten neemt Dr. Hirsch alle tijd met rust, geduld en empathie om u volledig op uw gemak te stellen.",
+            "story_slide2_title": "Ergonomische Hightech Behandelstoel",
+            "story_slide2_desc": "Moderne medische apparatuur voor optimale ergonomie en maximaal comfort tijdens elke behandeling.",
+            "story_slide3_title": "Optische Vergroting & Microchirurgie",
+            "story_slide3_desc": "High-definition optische vergroting voor uiterste micrometerprecisie bij implantaatchirurgie en tandvleesbehandelingen.",
+            "story_slide4_title": "Universitair Gediplomeerd Specialist",
+            "story_slide4_desc": "Afgestudeerd aan gerenommeerde Franse universiteiten (Parijs en Rennes) met diepgaande specialisatie in implantologie en parodontologie.",
+            "story_slide5_title": "Toegewijde Spoedopvang",
+            "story_slide5_desc": "Dagelijks gereserveerde tijdvakken tijdens werkdagen om acute kiespijn snel te verlichten via +352 20 28 75 54.",
+
+            "services_tag": "Behandelingen & Specialisaties",
+            "services_title": "Complete Tandheelkunde voor <span class=\"text-highlighted\">Uw Gezondheid & Glimlach</span>",
+            "services_subtitle": "Met gespecialiseerde diploma's van de Universiteiten van Parijs en Rennes verwelkomt Dr. Shandy Hirsch u met zachtheid voor preventieve, chirurgische en esthetische zorg.",
+            "services_cta_doctena": "Afspraak Maken op Doctena",
+            "srv_1_title": "Orale Implantologie & Protheses",
+            "srv_1_desc": "Duurzame en vaste vervanging van ontbrekende tanden: enkelvoudige implantaten, bruggen en klikgebitten. Tweejarige klinische specialisatie aan het UMC Rennes en Universiteit Toulouse III.",
+            "srv_2_title": "Parodontologie & Tandvleesbehandeling",
+            "srv_2_desc": "Vroegtijdige opsporing en gerichte behandeling van parodontitis, tandvleesontsteking, bloedend tandvlees en weefselregeneratie. Specialisaties Universiteit Parijs en Université Côte d'Azur.",
+            "srv_3_title": "Esthetische Tandheelkunde & Bleken",
+            "srv_3_desc": "Verfijn de harmonie van uw glimlach: professioneel tanden bleken in de stoel, handgemaakte keramische facings en esthetische restauraties. Gediplomeerd door de Académie du Sourire.",
+            "srv_4_title": "Algemene Tandheelkunde & Preventie",
+            "srv_4_desc": "Zachte ultrasone reiniging, periodieke controle, mondslijmvliespathologie (Universiteit Parijs) en zorgzame kindertandheelkunde om duurzaam vertrouwen op te bouwen.",
+            "srv_cta": "Afspraak Maken",
+
+            "team_tag": "Uw Behandelaar",
+            "team_title": "Dokter Shandy Hirsch <span class=\"text-highlighted\">Tandarts-Chirurg</span>",
+            "team_subtitle": "Persoonlijke, attente zorg met een hoge klinische standaard in een moderne, gastvrije praktijk in Luxemburg-Bonnevoie.",
+            "team_doc_name": "Dr. Shandy Hirsch",
+            "team_doc_role": "Tandarts-Chirurg • Oprichtster van de Praktijk",
+            "team_doc_bio": "Gespecialiseerd aan de toonaangevende Universiteiten van Parijs en Rennes in Parodontologie en Orale Implantologie. In Luxemburg gewaardeerd om haar zachte aanpak, luisterend oor voor nerveuze patiënten en toewijding aan precisiezorg.",
+            "team_doc_badge": "Algemeen Tandarts & Specialist",
+            "diplomas_title": "Universitaire Diploma's & Kwalificaties van Dr. Shandy Hirsch",
+            "languages_label": "Gesproken talen in de praktijk:",
+            "team_cta": "Afspraak Maken met Dr. Hirsch op Doctena",
+
+            "val_tag": "Technologie & Uitrusting",
+            "val_title": "Hoogwaardige Medische <span class=\"text-highlighted\">Apparatuur</span>",
+            "val_subtitle": "Dr. Hirsch investeert continu in geavanceerde klinische technologie om veilige, nauwkeurige en pijnloze behandelingen te garanderen.",
+            "val_1_title": "Ergonomische Hightech Behandelstoel",
+            "val_1_desc": "Premium behandelcentrum voor maximaal patiëntcomfort en rust tijdens controles en chirurgische ingrepen.",
+            "val_2_title": "Optische Vergroting & Microchirurgie",
+            "val_2_desc": "HD-operatieloepen voor minimaal-invasieve technieken en uiterst precieze plaatsing van tandheelkundige implantaten.",
+            "val_3_title": "Digitale Lage-Dosis Röntgenstraling",
+            "val_3_desc": "Haarscherpe digitale diagnostiek met minimale stralingsbelasting voor de hoogste patiëntveiligheid.",
+            "val_4_title": "Klasse B Ziekenhuissterilisatie",
+            "val_4_desc": "Hoogste Europese hygiënestandaard met volledige traceerbaarheid voor elk gesteriliseerd instrument.",
+
+            "test_tag": "⭐ Geverifieerde Patiëntervaringen • 5.0 / 5.0 Sterren",
+            "test_title_1": "Vertrouwen en Zachtheid",
+            "test_title_2": "Gewaardeerd door Onze Patiënten",
+            "test_1_author": "Geverifieerde Google Review",
+            "test_1_role": "⭐⭐⭐⭐⭐ 5.0 / 5.0 Sterren • Bonnevoie",
+            "test_1_quote": "“Dr. Hirsch is bijzonder zacht en attent. Ik was altijd ontzettend bang voor de tandarts, maar zij neemt alle spanning weg met oprechte rust en empathie. Volledig pijnloos en perfect behandeld.”",
+            "test_2_author": "Geverifieerde Google Review",
+            "test_2_role": "⭐⭐⭐⭐⭐ 5.0 / 5.0 Sterren • Luxemburg",
+            "test_2_quote": "“Onberispelijk schone praktijk, warm welkom, stipt op tijd en heel zacht in de behandeling. Uitstekende zorg van begin tot eind. Een echte aanrader in Luxemburg-Bonnevoie!”",
+            "test_3_author": "Geverifieerde Doctena-Patiënt",
+            "test_3_role": "⭐⭐⭐⭐⭐ 100% Aanbeveling • Zorg & Implantaten",
+            "test_3_quote": "“Uitzonderlijk luisterend oor en kristalheldere uitleg bij elke stap. Geweldige zorg voor tandvlees en implantaten. Alles is transparant, geruststellend en professioneel.”",
+
+            "quest_tag": "Patiëntenportaal & Documenten",
+            "quest_title_1": "Medische Vragenlijsten",
+            "quest_title_2": "Voorafgaand aan uw Bezoek",
+            "quest_intro": "Om tijd te besparen tijdens uw eerste afspraak kunt u onderstaande gezondheidsvragenlijst downloaden en vooraf invullen. U kunt deze meenemen naar uw consultatie of mailen naar: <strong>dentiste@dr-hirsch.lu</strong>.",
+            "quest_cta_doctena": "Afspraak Plannen op Doctena",
+            "quest_card1_badge": "Medische PDF • Volwassenen",
+            "quest_card1_title": "Medische Vragenlijst Volwassenen",
+            "quest_card1_desc": "Essentieel voor uw eerste consult: medische voorgeschiedenis, actuele medicatie, allergieën en reden van komst.",
+            "quest_card1_btn": "📥 Download Vragenlijst Volwassenen (PDF)",
+            "quest_card2_badge": "Medische PDF • Kinderen",
+            "quest_card2_title": "Medische Vragenlijst Kinderen",
+            "quest_card2_desc": "Voor een ontspannen en vriendelijk eerste bezoek van uw kind: poetsgewoonten en tandheelkundige geschiedenis.",
+            "quest_card2_btn": "📥 Download Vragenlijst Kinderen (PDF)",
+            "quest_card3_badge": "Online 24/7 • Doctena",
+            "quest_card3_title": "Online Afspraak Beheren",
+            "quest_card3_desc": "Bekijk live de beschikbaarheid van Dr. Hirsch en boek uw tijdslot binnen enkele seconden.",
+            "quest_card3_btn": "🗓️ Boeken via Doctena.lu",
+
+            "faq_tag": "Tijden, Spoed & Bereikbaarheid",
+            "faq_title_1": "Praktische Informatie ",
+            "faq_title_2": "& Veelgestelde Vragen",
+            "faq_subtitle": "Vind alle officiële informatie over openingstijden, spoedgevallen en bereikbaarheid met het openbaar vervoer.",
+            "faq_box_title": "Heeft u een vraag of spoedgeval?",
+            "faq_box_desc": "Ons team staat voor u klaar en helpt u graag verder.",
+            "faq_q1": "Wat zijn de openingstijden van de praktijk?",
+            "faq_a1": "<strong>Maandag t/m Donderdag:</strong> 8:30 – 17:30<br/><strong>Vrijdag:</strong> 8:30 – 12:30<br/><strong>Zaterdag:</strong> 9:30 – 14:00 (één zaterdag per maand, op afspraak)<br/><strong>Zondag:</strong> Gesloten",
+            "faq_q2": "Hoe worden spoedgevallen geregeld op werkdagen en in het weekend?",
+            "faq_a2": "<strong>Op werkdagen:</strong> Dagelijks zijn er prioritaire spoedplekken gereserveerd. Bel <strong>+352 20 28 75 54</strong> en spreek een bericht in als we in behandeling zijn.<br/><br/><strong>Weekenden en feestdagen:</strong> Buiten openingstijden wordt de tandheelkundige wachtdienst verzorgd in het <strong>Centre Hospitalier de Luxembourg (CHL)</strong> van zaterdag 14:00 tot zondag 18:00 via noodnummer <strong>112</strong>.",
+            "faq_q3": "Hoe bereik ik de praktijk met openbaar vervoer of auto?",
+            "faq_map_btn": "Routebeschrijving op Google Maps ↗",
+            "faq_a3": "<strong>Adres:</strong> 12, rue William Turner, L-2634 Luxembourg (Bonnevoie).<br/><strong>Per bus (vlakbij):</strong><br/>• <strong>Buslijn 2:</strong> Halte Demy Schlechter (1 min lopen)<br/>• <strong>Buslijn 7:</strong> Halte Vannérus – Wisestrooss (2 min lopen)<br/>• <strong>Buslijn 29:</strong> Halte Hippodrome (3 min lopen)<br/>Op slechts 5 minuten van het <strong>Centraal Station (Gare Centrale)</strong> en de <strong>T1 Tram</strong>.<br/>Dienstregeling via <a href=\"https://www.mobiliteit.lu/en/\" target=\"_blank\" rel=\"noopener\" style=\"color:#be185d; text-decoration:underline;\">www.mobiliteit.lu</a>.",
+            "faq_q4": "Welke talen worden er gesproken in de praktijk?",
+            "faq_a4": "Dr. Shandy Hirsch verwelkomt u vloeiend in het <strong>Frans</strong>, <strong>Engels</strong> en <strong>Roemeens</strong> (Română).",
+            "faq_q5": "Hoe kan ik een afspraak maken?",
+            "faq_a5": "U kunt 24/7 online boeken via <a href=\"https://www.doctena.lu/fr/cabinet/dr_shandy_hirsch_obouta_landry-425311\" target=\"_blank\" rel=\"noopener\" style=\"color:#be185d; text-decoration:underline;\"><strong>Doctena</strong></a>, of telefonisch via <strong>+352 20 28 75 54</strong>.",
+
+            "cta_tag": "Maak Uw Afspraak",
+            "cta_title": "Zorg voor Uw Glimlach <br/><span class=\"text-highlighted\" style=\"color:#f472b6;\">Vanaf Vandaag</span>",
+            "cta_subtitle": "Plan uw bezoek in enkele klikken via Doctena of neem telefonisch contact op voor advies.",
+            "cta_btn_book": "Online Boeken via Doctena",
+            "cta_btn_call": "📞 Bellen: +352 20 28 75 54",
+
+            "footer_bio": "Tandartspraktijk Dr. Shandy Hirsch in Luxemburg-Bonnevoie. Hoge precisiezorg, implantologie, parodontologie en esthetische tandheelkunde in een warme en rustgevende omgeving.",
+            "footer_contact_head": "Direct Contact",
+            "footer_addr_label": "Adres:",
+            "footer_tel_label": "Telefoon:",
+            "footer_mail_label": "E-mail:",
+            "footer_rdv_label": "Afspraken:",
+            "footer_hours_head": "Openingstijden",
+            "footer_h_mon": "Maandag – Donderdag: 8:30 – 17:30",
+            "footer_h_fri": "Vrijdag: 8:30 – 12:30",
+            "footer_h_sat": "Zaterdag: 9:30 – 14:00 (1x/maand op afspraak)",
+            "footer_h_sun": "Zondag: Gesloten",
+            "footer_h_urg": "Weekend spoed: CHL wachtdienst via 112",
+            "footer_privacy": "Privacybeleid",
+            "footer_cookies": "Cookie-instellingen",
+            "footer_terms": "Colofon & Juridische Informatie"
         }
     };
 
@@ -361,6 +522,9 @@
         var urlLang = urlParams.get('lang');
         if (urlLang === 'en') {
             currentLang = 'en';
+        } else if (urlLang === 'nl') {
+            currentLang = 'nl';
+            currentLang = 'en';
         } else if (urlLang === 'fr') {
             currentLang = 'fr';
         } else {
@@ -372,7 +536,7 @@
     }
 
     function applyLanguage(lang) {
-        if (lang !== 'fr' && lang !== 'en') lang = 'fr';
+        if (lang !== 'fr' && lang !== 'en' && lang !== 'nl') lang = 'fr';
         currentLang = lang;
         try {
             sessionStorage.setItem('dr_hirsch_session_lang', lang);
